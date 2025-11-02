@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contact app</string>
+    <string name="logo">LOGO\n</string>
+    <string name="home_image">home image</string>
+    <string name="there_is_no_contacts_added_here">There is No Contacts Added Here</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_user_email">Enter User Email</string>
+    <string name="enter_user_phone">Enter User Phone</string>
+    <string name="enter_user">Enter User</string>
+    <string name="addimage">Add iamge\n</string>
+    <string name="delete">delete</string>
+    <string name="user_example_com">user@example.com</string>
+    <string name="_218_91_0000000">+218-91-0000000</string>
+    <string name="user_name">User Name</string>
+</resources>
